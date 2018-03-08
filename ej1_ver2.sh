@@ -40,3 +40,4 @@ done
 
 sort -r -n -k8 ordenacion.txt
 echo "" > ordenacion.txt
+echo "Ordenacion llevada a cabo con exito"
